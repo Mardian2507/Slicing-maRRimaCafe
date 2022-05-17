@@ -1,0 +1,47 @@
+.main-color {
+  background-color: #251D3A !important ;
+}
+
+.btn-color {
+  background-color: #E04D01 !important;
+  border: 1px solid #fff !important;
+}
+
+.footer-color {
+background: #2A2550 !important;
+} 
+
+.text-color {
+  color: #FF7700 !important;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.banner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url(../img/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.hovered-card{
+  transition: .3s;
+}
+
+.hovered-card:hover{
+  transform: scale(1.1);
+}
+
+.icon-service {
+  height: 80px;
+  width: 80px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.card-full {
+  height: 100%;
+}
